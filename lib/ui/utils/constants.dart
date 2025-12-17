@@ -1,2 +1,2 @@
 const String pathProduction="https://api.themoviedb.org/3";
-const String apiKey = "a1c50a4be7ed8195db574e9771b2e9fb";
+const String apiKey = "391bfdcaf9e3bfafe40850076373bb9e";
